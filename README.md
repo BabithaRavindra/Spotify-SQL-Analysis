@@ -344,8 +344,6 @@ Spotify-SQL-Analysis/
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,19&height=100&section=footer"/>
-
-*If you found this project useful, consider giving it a star.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=100&section=footer"/>
 
 </div>
