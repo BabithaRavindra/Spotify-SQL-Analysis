@@ -26,15 +26,15 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset Information](#dataset-information)
-- [Database Schema](#database-schema)
-- [Methodology](#methodology)
-- [SQL Analysis](#sql-analysis)
-- [Key Insights & Findings](#key-insights--findings)
-- [Tools & Technologies](#tools--technologies)
-- [Repository Structure](#repository-structure)
-- [Author](#author)
+- [![](https://img.shields.io/badge/Project%20Overview-1DB954?style=flat-square)](#project-overview)
+- [![](https://img.shields.io/badge/Dataset%20Information-191414?style=flat-square)](#dataset-information)
+- [![](https://img.shields.io/badge/Database%20Schema-1DB954?style=flat-square)](#database-schema)
+- [![](https://img.shields.io/badge/Methodology-191414?style=flat-square)](#methodology)
+- [![](https://img.shields.io/badge/SQL%20Analysis-1DB954?style=flat-square)](#sql-analysis)
+- [![](https://img.shields.io/badge/Key%20Insights%20%26%20Findings-191414?style=flat-square)](#key-insights--findings)
+- [![](https://img.shields.io/badge/Tools%20%26%20Technologies-1DB954?style=flat-square)](#tools--technologies)
+- [![](https://img.shields.io/badge/Repository%20Structure-191414?style=flat-square)](#repository-structure)
+- [![](https://img.shields.io/badge/Author-1DB954?style=flat-square)](#author)
 
 ---
 
@@ -59,7 +59,7 @@ This project applies **Python-based data wrangling** and **advanced SQL analysis
 
 ## Dataset Information
 
-- **Source:** [Kaggle — Spotify Tracks Dataset](https://www.kaggle.com)
+- **Source:** [![Kaggle](https://img.shields.io/badge/Kaggle-Spotify%20Tracks%20Dataset-1DB954?style=flat-square&logo=kaggle&logoColor=191414)](https://www.kaggle.com)
 - **Scope:** Tracks, artists, genres, and audio features from Spotify's music catalog
 - **File:** `Dataset.xlsx` (sheet: `dataset`)
 
@@ -79,7 +79,6 @@ This project applies **Python-based data wrangling** and **advanced SQL analysis
 | `Artist_popularity` | Overall popularity score of the artist | Numerical |
 
 > **Data Quality Note:** The raw dataset contained missing values in popularity and audio feature fields, potential duplicate entries due to multi-genre track mappings, and inconsistent text formats in artist and genre columns. All issues were resolved during the data wrangling phase.
-
 ---
 
 ## Database Schema
